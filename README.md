@@ -13,4 +13,4 @@ software will be non-restrictive and editable. With the communities help we will
 make strides in the control of global emissions. Because of the communities envolvement, it is
 free to use, distribute, modify and implement.
 
-If you would like to contribute, please see: CONTRIBUTIONS.md
+If you would like to contribute, please see: [CONTRIBUTIONS.md]
