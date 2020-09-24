@@ -19,3 +19,4 @@ If you do not meet any of these requirements, perhaps the universe has deemed yo
 
 ## Documentation
 In order to make sure that this codebase is understandable, one must write extensive (three comments per line) documentation in code files and an additional page of documetation written in J. R. R. Tolkein's Elvish from *The Lord of the Rings*, as the speakers of that language had an high degree of respect for nature and would abhor flying cars.
+It is additionally expected that contributors write self-documening code.
