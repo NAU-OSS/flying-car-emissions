@@ -16,3 +16,6 @@ All new features must be approved by the OSS Dank Memes Board of High Morals. On
 In order to add code to this beautiful project, one must have a proper `NewScrypt` development environment. This means that you must have a Solaris machine with the tools `nsc`, `nsrun`, `nsfmt`, and the newest version of NetBeans from the Apache Software Foundation. One must have the NewScrypt plugin installed from Oracle and the AI plugin from IBM.
 
 If you do not meet any of these requirements, perhaps the universe has deemed you morally unfit to contribute to this glorious project.
+
+## Documentation
+In order to make sure that this codebase is understandable, one must write extensive (three comments per line) documentation in code files and an additional page of documetation written in J. R. R. Tolkein's Elvish from *The Lord of the Rings*, as the speakers of that language had an high degree of respect for nature and would abhor flying cars.
